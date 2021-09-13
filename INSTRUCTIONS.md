@@ -1,4 +1,4 @@
-# Modded
+# Instructions
 
 1. Run Minecraft 1.16.5 Vanilla
 
