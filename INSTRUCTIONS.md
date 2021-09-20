@@ -28,22 +28,18 @@
 
 14. Quit Minecraft
 
-15. Go to http://bit.do/ModsDownload
+15. Go to http://bit.do/AltDownload
 
-16. Select all of the files
+16. Once they are downloaded go to your downloads and right click on the "Mods 1.16.5 - Alt Download.zip" file and select open with "Windows Explorer"
 
-17. Right click on one and click "download"
+17. Press (Windows Key) + (r) -> type %appdata% and hit "OK"
 
-18. Once they are downloaded go to your downloads and right click on the "drive-download-XXX" file and select open with "Windows Explorer"
+18. Open the ".minecraft" folder
 
-19. Press (Windows Key) + (r) -> type %appdata% and hit "OK"
+19. Look for the "mods" folder and open it
 
-20. Open the ".minecraft" folder
+20. Once you are in the "mods" folder drag and drop all the files from the open "Mods 1.16.5 - Alt Download.zip" file into the "mods" folder
 
-21. Look for the "mods" folder and open it
+21. Open the minecraft launcher and launch "release 1.16.5-forge-36.2.0"
 
-22. Once you are in the "mods" folder drag and drop all the files from the open "drive-download-XXX" file into the "mods" folder
-
-23. Open the minecraft launcher and launch "release 1.16.5-forge-36.2.0"
-
-24. Join the server! ( modded.g-s.nu )
+22. Join the server! ( modded.g-s.nu )
