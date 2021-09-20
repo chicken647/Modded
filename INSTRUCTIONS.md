@@ -46,4 +46,4 @@
 
 23. Open the minecraft launcher and launch "release 1.16.5-forge-36.2.0"
 
-24. Join the server! 
+24. Join the server! ( modded.g-s.nu )
