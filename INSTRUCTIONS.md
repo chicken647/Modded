@@ -28,7 +28,7 @@
 
 14. Quit Minecraft
 
-15. Go to http://bit.do/AltDownload
+15. Go to http://bit.do/ModsDownload2
 
 16. Once they are downloaded go to your downloads and right click on the "Mods 1.16.5 - Alt Download.zip" file and select open with "Windows Explorer"
 
