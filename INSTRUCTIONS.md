@@ -43,3 +43,5 @@
 21. Open the minecraft launcher and launch "release 1.16.5-forge-36.2.0"
 
 22. Join the server! ( modded.g-s.nu )
+
+Alternate Download Link (Mods) http://bit.do/ModsDownload
